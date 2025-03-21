@@ -10,4 +10,6 @@ Bada bim bada boom it's as small as a shroom
 
 Can you read this?
 
+Anyhow, check out this cat bro
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
